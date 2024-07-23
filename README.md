@@ -1,4 +1,4 @@
 # New project 
 
 This project was created from local system.
-Created by Parthib Mondal.
+Created by Parthib Mondal
